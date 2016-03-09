@@ -1,0 +1,11 @@
+{
+    "library_name": "topology_lib_ops_show_tech",
+    "author": "Hewlett Packard Enterprise Development LP",
+    "email": "chellappa.ramasamy@hpe.com",
+    "repo_url": "https://github.com/HPENetworking/topology_lib_ops_show_tech",
+    "doc_url": "https://github.com/HPENetworking/topology_lib_ops_show_tech/tree/master/doc",
+    "project_name": "ops_show_tech Communication Library for Topology",
+    "short_description": "This is sample library for ops_show_tech",
+    "year": "2016",
+    "version": "0.1.0"
+}
